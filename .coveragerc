@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = networking_portfowarding
+omit = networking_portfowarding/tests/*,networking_portfowarding/openstack/*
+
+[report]
+ignore-errors = True
