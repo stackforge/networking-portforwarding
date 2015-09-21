@@ -4,4 +4,4 @@ source = networking_portforwarding
 omit = networking_portforwarding/tests/*,networking_portforwarding/openstack/*
 
 [report]
-ignore-errors = True
+ignore_errors = True
